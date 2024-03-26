@@ -12,8 +12,8 @@
 
 <channel>
 	<title></title>
-	<atom:link href="/adam//feed/" rel="self" type="application/rss+xml" />
-	<link>/adam/</link>
+	<atom:link href="wb.github.io//feed/" rel="self" type="application/rss+xml" />
+	<link>wb.github.io/</link>
 	<description></description>
 	<lastBuildDate></lastBuildDate>
 	<language>en-AU</language>
